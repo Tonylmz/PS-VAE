@@ -1,0 +1,7 @@
+guacamol==0.5.4
+joblib==1.2.0
+networkx==2.8.6
+pytorch-lightning==1.5.7
+rdkit-pypi==2022.3.5
+torchmetrics==0.9.3
+tqdm==4.64.1
